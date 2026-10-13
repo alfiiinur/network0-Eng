@@ -1,0 +1,8 @@
+# Abaikan cache & workspace Obsidian (opsional)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/indexed*
+
+# Abaikan OS file
+.DS_Store
+Thumbs.db
